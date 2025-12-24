@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df14a51e-b830-4e0f-9b79-c622afc0a410" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/SRP/après/EmailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SRP/après/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SRP/après/UserReprository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SRP/avant/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="df14a51e-b830-4e0f-9b79-c622afc0a410" name="Changes" comment="avant et après refactoring">
+      <change afterPath="$PROJECT_DIR$/src/OCP/après/Addiction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCP/après/Opération.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCP/après/Soustraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OCP/avant/calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SRP/User.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -88,12 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1766539463624</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="avant et après refactoring">
+      <option name="closed" value="true" />
+      <created>1766540723982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1766540723982</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="avant et après refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="avant et après refactoring" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
