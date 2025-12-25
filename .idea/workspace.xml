@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df14a51e-b830-4e0f-9b79-c622afc0a410" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DIP/après/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIP/après/Keyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIP/après/MechanicalKeyboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DIP/avant/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ISP/après/Eatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ISP/après/Humain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ISP/après/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ISP/après/workable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ISP/avant/Robot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ISP/avant/worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df14a51e-b830-4e0f-9b79-c622afc0a410" name="Changes" comment="Avant et après refactoring SRP" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,16 +44,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Blondel/IdeaProjects/TP_0_ICT301_DJIONZE_ANGE/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Blondel/IdeaProjects/TP_0_ICT301_DJIONZE_ANGE/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="LSP.avant" />
@@ -111,13 +100,22 @@
       <option name="project" value="LOCAL" />
       <updated>1766540723982</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Avant et après refactoring SRP">
+      <option name="closed" value="true" />
+      <created>1766706582451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1766706582451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="avant et après refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="avant et après refactoring" />
+    <MESSAGE value="Avant et après refactoring SRP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avant et après refactoring SRP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
