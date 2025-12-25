@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df14a51e-b830-4e0f-9b79-c622afc0a410" name="Changes" comment="avant et après refactoring">
-      <change afterPath="$PROJECT_DIR$/src/OCP/après/Addiction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OCP/après/Opération.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OCP/après/Soustraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OCP/avant/calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SRP/User.java" beforeDir="false" />
+    <list default="true" id="df14a51e-b830-4e0f-9b79-c622afc0a410" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DIP/après/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIP/après/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIP/après/MechanicalKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DIP/avant/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISP/après/Eatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISP/après/Humain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISP/après/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISP/après/workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISP/avant/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ISP/avant/worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,36 +33,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "blondel-dot"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;blondel-dot&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/blondel-dot/TP_0_ICT301_DJIONZE_ANGE.git",
-    "accountId": "72bffad9-c30a-43aa-a380-9640686d76d6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/blondel-dot/TP_0_ICT301_DJIONZE_ANGE.git&quot;,
+    &quot;accountId&quot;: &quot;72bffad9-c30a-43aa-a380-9640686d76d6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="37Gmciho6PLuVQqChhkxglDCNhA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Blondel/IdeaProjects/TP_0_ICT301_DJIONZE_ANGE/src/Main.java",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Blondel/IdeaProjects/TP_0_ICT301_DJIONZE_ANGE/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="LSP.avant" />
+      <recent name="LSP.après" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
