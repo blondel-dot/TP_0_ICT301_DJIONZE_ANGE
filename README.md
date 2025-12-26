@@ -12,6 +12,7 @@ plus maintenables,flexibles et évolutifs.
 
 Chaque principe vise à réduire le couplage, améliorer la lisibilité du code et facilter les modifications futures sans 
 casser l'existants.
+
 Les 5 principes SOLID sont:
 - SRP (Single Responsibility Principle);
 - OCP ( Open Closed Principle);
