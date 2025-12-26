@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df14a51e-b830-4e0f-9b79-c622afc0a410" name="Changes" comment="Avant et après refactoring SRP" />
+    <list default="true" id="df14a51e-b830-4e0f-9b79-c622afc0a410" name="Changes" comment="Avant et après refactoring DIP">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,14 +111,50 @@
       <option name="project" value="LOCAL" />
       <updated>1766706582451</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Avant et après refactoring ocp">
+      <option name="closed" value="true" />
+      <created>1766706767589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1766706767589</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Avant et après refactoring LSP">
+      <option name="closed" value="true" />
+      <created>1766706862318</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766706862318</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Avant et après refactoring ISP">
+      <option name="closed" value="true" />
+      <created>1766706907321</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1766706907321</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Avant et après refactoring DIP">
+      <option name="closed" value="true" />
+      <created>1766706940619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1766706940619</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="avant et après refactoring" />
     <MESSAGE value="Avant et après refactoring SRP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Avant et après refactoring SRP" />
+    <MESSAGE value="Avant et après refactoring ocp" />
+    <MESSAGE value="Avant et après refactoring LSP" />
+    <MESSAGE value="Avant et après refactoring ISP" />
+    <MESSAGE value="Avant et après refactoring DIP" />
+    <option name="LAST_COMMIT_MESSAGE" value="Avant et après refactoring DIP" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
